@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jhoan Carrero</h1>
-<h3 align="center">Computer professional, lover of technology and music, with knowledge of networks, physics and mathematics.</h3>
+<h1 align="center">
+  Hi 👋, I'm Jhoan Carrero 
+  <br>
+  <img width="100px" src="https://user-images.githubusercontent.com/63968367/146644328-dd030a54-0730-44f0-b0f9-1a5ff49e006c.jpg"/>
+</h1>
+<h3 align="center">
+  Computer professional, lover of technology and music, with knowledge of networks, physics and mathematics.
+</h3>
+
 
 - 🔭 I’m currently working as [Freelancer in networking and web projects](https://www.captivefire.net)
 
