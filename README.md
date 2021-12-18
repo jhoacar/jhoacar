@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Jhoan Carrero 
   <br>
-  <img width="100px" src="https://user-images.githubusercontent.com/63968367/146644328-dd030a54-0730-44f0-b0f9-1a5ff49e006c.jpg"/>
+  <img width="100px" src="https://user-images.githubusercontent.com/63968367/146655972-1830787e-08f9-44f3-b520-75f63971c3ec.png"/>
 </h1>
 <h3 align="center">
   Computer professional, lover of technology and music, with knowledge of networks, physics and mathematics.
