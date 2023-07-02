@@ -21,8 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jhoacar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhoacar" height="30" width="40" /></a>
-<a href="https://fb.com/jhoancarrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhoancarrero" height="30" width="40" /></a>
-<a href="https://instagram.com/jhoancarrero8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhoancarrero8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
