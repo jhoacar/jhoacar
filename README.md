@@ -8,11 +8,11 @@
 </h3>
 
 
-- 🔭 I’m currently working as [Freelancer in networking and web projects](https://www.captivefire.net)
+- 🔭 I’m currently working as Freelancer in networking and web projects
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://www.jhoacar.me](https://www.jhoacar.me)
+- 👨‍💻 All of my projects are available at [https://github.com/jhoacar?tab=repositories](https://github.com/jhoacar?tab=repositories)
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, Typescript, ReactJS, NextJS**
 
